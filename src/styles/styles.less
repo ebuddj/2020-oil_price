@@ -1,5 +1,43 @@
 @import 'basics.less';
 
+body {
+  margin: 0;
+  padding: 0;
+}
 .app {
-
+  p {
+    margin: 0 0 10px 0;
+  }
+  button {
+    appearance: none;
+    border: 1px solid #000;
+    margin: 0 2px;
+    outline: none;
+    &:hover {
+      background-color: #ccc;
+    }
+  }
+  .date {
+    font-size: 50px;
+    position: absolute;
+    text-align: center;
+    text-shadow: 1px 1px 1px #fff;
+    width: 100%;
+  }
+ 
+  #line_chart {
+    clear: both;
+    height: 100%;
+    margin: auto auto;
+    padding-top: 5px;
+    width: 100%;
+  }
+  .line_chart_meta {
+    bottom: 80px;
+    font-family: verdana;
+    font-size: 36px;
+    position: absolute;
+    right: 20px;
+    text-align: right;
+  }
 }
