@@ -19,7 +19,7 @@ class App extends Component {
       line_chart_rendered_16_9:false,
       pizza_chart_rendered:false,
       line_chart_show_meta:false,
-      value:0
+      value:26.16
     };
 
     // We need a ref for chart.js.
@@ -75,12 +75,12 @@ class App extends Component {
             backgroundColor:'rgba(59, 49, 49, 0.7)',
             borderColor:'#3B3131',
             borderWidth:2,
-            data:[0],
+            data:[self.state.value],
             fill:true,
             label:'Crude oil price',
             radius:0
           }],
-          labels:['1946-01-01']
+          labels:['1960-01']
         },
         options:{
           hover:{
@@ -103,10 +103,15 @@ class App extends Component {
               display:true,
               scaleLabel:{
                 display:false,
-                labelString:'day'
+                labelString:'month'
               }
             }],
             yAxes:[{
+              // https://www.chartjs.org/docs/latest/axes/cartesian/linear.html#axis-range-settings
+              ticks: {
+                suggestedMin: 0,
+                suggestedMax: 50,
+              },
               display:true,
               scaleLabel:{
                 display:true,
