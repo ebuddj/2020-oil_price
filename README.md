@@ -4,16 +4,17 @@
 
 ## Crude Oil Prices
 
-Crude oil price of West Texas Intermediate (WTI or NYMEX) crude oil prices per barrel from 1960 to current. The price presented for each month is the closing price. 
+Monthly crude oil price of West Texas Intermediate (WTI or NYMEX) per barrel from 1960 to current. The price presented for each month is the closing price. 
 
 There is a differential in the price of a barrel of oil based on its grade—determined by factors such as its specific gravity or API gravity and its sulfur content—and its location—for example, its proximity to tidewater and refineries. Heavier, sour crude oils lacking in tidewater access—such as Western Canadian Select—are less expensive than lighter, sweeter oil—such as WTI.
 
 The price of oil decreased substantially in 2020 due to the 2020 coronavirus pandemic and the 2020 Russia–Saudi Arabia oil price war. On 20 April, Brent crude benchmark reached $25 per barrel, while WTI Crude dropped below $0 for the first time in history.
 
-The prices are inlation-adjusted. The current price of WTI crude oil as of April 24, 2020 is $16.94 per barrel.
+The prices are inflation-adjusted. The current price of WTI crude oil as of April 24, 2020 is $16.94 per barrel.
 
 **Sources**
 * [Macrotrends](https://www.macrotrends.net/1369/crude-oil-price-history-chart)
+* [Wikipedia](https://en.wikipedia.org/wiki/Price_of_oil)
 
 **EBU links**
 * []()
