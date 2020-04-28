@@ -26,7 +26,7 @@ class App extends Component {
     this.lineChartRef = React.createRef();
   }
   componentDidMount() {
-    setTimeout(function() {
+    setTimeout(() => {
       this.createLineChart(16/9);
     }, 1000);
   }
