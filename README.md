@@ -15,7 +15,8 @@ There is a differential in the price of a barrel of oil based on its grade—det
 * [Wikipedia](https://en.wikipedia.org/wiki/Price_of_oil)
 
 **EBU links**
-* [News Exchange](https://news-exchange.ebu.ch/item_detail/59413c0319fe4b30ecf18927f01707b2/2020_21019965)
+* [News Exchange](https://news-exchange.ebu.ch/item_detail/59413c0319fe4b30ecf18927f01707b2/2020_21019965), 2020-04-28
+* [News Exchange](https://news-exchange.ebu.ch/item_detail/f0f26649221bf04912cab687e74a4b8b/2020_21021293), 2020-05-06
 * [Social Newswire](https://www.evnsocialnewswire.ch/data/animation-tracks-monthly-crude-oil-prices-since-1960-animation/)
 
 **Used by**
