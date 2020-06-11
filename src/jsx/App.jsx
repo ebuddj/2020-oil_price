@@ -17,7 +17,6 @@ class App extends Component {
     this.state = {
       line_chart_rendered:false,
       line_chart_rendered_16_9:false,
-      pizza_chart_rendered:false,
       line_chart_show_meta:false,
       value:26.16
     };
