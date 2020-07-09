@@ -2,7 +2,7 @@
 
 **Live demo** https://ebuddj.github.io/2020-oil_price/
 
-## Crude Oil Prices
+## Crude Oil Price (EBU)
 
 Monthly crude oil price of West Texas Intermediate (WTI or NYMEX) per barrel from 1960 to current. The price presented for each month is the closing price. The prices are inflation-adjusted. The current price of WTI crude oil as of May 04, 2020 is $20.39 per barrel.
 
